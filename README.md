@@ -1,0 +1,2 @@
+# DBTtoSnowflake
+DBT learning project
